@@ -1,8 +1,7 @@
 <h1 align="center"> Hi  👋  I'm Ceren! </h1>
 
 Back-End Developer
-
--------------------------
+-
 
 ### Skills
 
